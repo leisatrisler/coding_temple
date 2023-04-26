@@ -1,0 +1,83 @@
+body {
+    text-align: center;
+}
+
+.container {
+    display: flex; 
+  }
+
+  .center {
+    margin: auto;
+    width: 50%;
+    /* border: 3px solid rgb(125, 126, 125); */
+    padding: 6px;
+    text-align: center;
+  }
+
+  .boxtruck {
+    padding: 25px;
+    border: 1px solid rgb(125, 126, 125);
+  }
+  .x {
+    /* float:left; */
+  }
+
+  .footer-center {
+    margin: auto;
+    width: 20%;
+    padding: 6px;
+    text-align: center;
+  }
+    
+button,
+input {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.primary_container {
+    border-style: solid;
+}
+
+.main_container {
+    width: 25%;
+    align-content: center;
+}
+
+.footer_container {
+    width: 25%;
+    align-content: center;
+}
+
+.new-account {
+    background-color: rgb(178, 178, 174);
+    width: 80%;
+    margin: 3%;
+}
+
+.continue {
+    background-color: rgb(249, 204, 5);
+    width: 80%;
+    margin: 3%;
+}
+
+.sign-in {
+    text-align: left;
+}
+
+#username {
+    width: 80%;
+    margin: 3%;
+}
+
+#password {
+    width: 80%;
+    margin: 3%;
+}
+
+.label-left {
+    display: inline-block;
+    width: 150px;
+    text-align: right;
+}
+
