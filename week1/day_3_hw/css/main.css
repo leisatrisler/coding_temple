@@ -1,0 +1,75 @@
+.nav-color{
+    color:rgb(253, 252, 252);
+}
+
+.container-color{
+    background-color: black;
+}
+
+.body-color{
+    background-color: black;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.photo > img {
+    width: 100%;
+  }
+
+.photo-text {
+    font-size: 650%;
+    color: white;
+}
+
+.row-color, div {
+    color:white
+}
+
+body {
+    background-image: url(../images/theater-image-background.png) no-repeat;
+    background-size: 100%;
+}
+
+#image-wrapped, img {
+    width: 100;
+    height: 100;
+}
+
+.container-row-2{
+    background-color: white;
+    color:black;
+}
+
+.date-box {
+    color:black;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    background-color: rgb(209, 206, 206)
+}
+
+.man-img{
+    height:60%;
+}
+
+.list-style{
+    list-style:none;
+}
+
+.card-box{
+    color:black;
+}
+
+.button{
+    background-color:orange;
+}
+
+.horizontal-line{
+    background-color:rgb(122, 121, 121);
+    height:2px;
+}
